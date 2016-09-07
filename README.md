@@ -1,2 +1,2 @@
 # hello-world
-My first repository for practioce
+My first repository for practice!
